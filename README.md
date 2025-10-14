@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Saineeraj Saravanan,
 
-<!--
-**Saineeraj-Saravanan/Saineeraj-Saravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-year B.Tech Computer Science Engineering student** at **VIT Chennai**  
+💻 Passionate about **Web Development**, **App Development**, and **UI/UX Design**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- JavaScript  
+- C Programming  
+- Unreal Engine  
+- UI/UX Design  
+
+---
+
+### 🚀 Career Aspirations
+I aim to become a **Game and App Developer** with a strong focus on creating seamless and engaging **user experiences**. I’m also interested in combining development and design to build innovative digital products.
+
+---
+
+### 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🧑‍💻 [GitHub](https://github.com/your-username)  
+- ✉️ Email: saineeraj070@gmail.com  
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
