@@ -7,9 +7,10 @@
 
 ### 🌱 Currently Learning
 - JavaScript  
-- C Programming  
+- Blender  
 - Unreal Engine  
-- UI/UX Design  
+- UI/UX Design
+- Python programming 
 
 ---
 
