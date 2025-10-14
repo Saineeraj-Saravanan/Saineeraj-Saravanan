@@ -18,8 +18,9 @@ I aim to become a **Game and App Developer** with a strong focus on creating sea
 
 ---
 ### 🕵️ Interests
-- I want to build a website which can track one's progress in life in a video game like menu screen(inspired from Solo Leveling)
-- I want to build a website where a source code can be uploaded to find threats and possible risks
+I aim on building
+- A website which can track one's progress in life in a video game like menu screen(inspired from Solo Leveling)
+- A website where a source code can be uploaded to find threats and possible risks
 
 ---
 ### 🤝 Let’s Connect
