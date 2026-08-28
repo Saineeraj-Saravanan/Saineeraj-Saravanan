@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saineeraj Saravanan,
 
-🎓 **First-year B.Tech Computer Science Engineering student** at **VIT Chennai**  
+🎓 **Second-year B.Tech Computer Science Engineering student** at **VIT Chennai**  
 💻 Passionate about **Web Development**, **App Development**, and **UI/UX Design**
 
 ---
